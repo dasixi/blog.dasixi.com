@@ -1,7 +1,5 @@
 ruby "2.0.0"
 
-source :rubygems
-
 gem "thin"
 gem "rack-contrib"
 
