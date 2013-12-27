@@ -2,6 +2,7 @@
 title: "大四喜"
 date: 2013-12-09 20:12 +08:00
 tags: bitcoin, dasixi
+slug: dasixi-intro
 author: dasixi
 ---
 

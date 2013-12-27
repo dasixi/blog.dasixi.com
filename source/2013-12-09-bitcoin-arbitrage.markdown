@@ -2,6 +2,7 @@
 title: "比特币套利"
 date: 2013-12-09 01:12 +08:00
 tags: bitcoin, arbitrage
+slug: bitcoin-arbitrage
 author: dasixi
 ---
 

@@ -30,4 +30,8 @@
     <%= partial 'shared/post', locals: { article: current_article } %>
 
   </article>
+
+  <div class="comments">
+    <a class="moot" href="https://moot.it/i/dasixi/<%= current_article.slug %>"> Comments for this blog entry </a>
+  </div>
 <% end %>
