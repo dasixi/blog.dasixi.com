@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <id>http://blog.dasixi.com</id>
+    <title>DASIXI</title>
+    <link>http://blog.dasixi.com</link>
+    <language>zh-cn</language>
+    <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2013 dasixi.com</copyright>
+    <link href="http://blog.dasixi.com"/>
+    <link href="http://blog.dasixi.com/rss.xml" rel="self"/>
+    <updated>2013-12-26T07:37:00Z</updated>
+    <lastBuildDate>2013-12-26T07:37:00Z</lastBuildDate>
+    <pubDate>2013-12-26T07:37:00Z</pubDate>
+    <description>Dasixi bitcoin arbitrage</description>
+    <author>
+      <name>dasixi</name>
+    </author>
+    <item>
+      <title>套利指南(一) － 准备工作：注册账号</title>
+      <link>http://blog.dasixi.com/accounts</link>
+      <description type="html">&lt;p&gt;和到证券交易所开户一样，在我们开始电子货币套利之前也需要“开户”：注册账号。
+除了需要在各交易网站注册账号，如果要参与内外盘套利的话，你还需要一个资金渠道，所以还要在一些支付网站注册账号。&lt;/p&gt;
+
+&lt;p&gt;虽然听上去在网站上注册个账号这事好像再简单不过，我们之前可能都做过不下百遍。
+但这事比想像的要复杂很多，甚至于要超过证券开户。而且除了复杂，还有一些陷阱需要注意。&lt;/p&gt;
+
+&lt;p&gt;复杂的原因有二， 各国的反洗钱需求以及跨国身份认证的复杂。&lt;/p&gt;
+
+&lt;p&gt;下面详细介绍一些大的交易所的注册方法和注意事项&lt;/p&gt;
+
+&lt;h2&gt;交易所&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;国盘&lt;/p&gt;
+
+&lt;p&gt;又称果盘，指国内的各个交易所，如&lt;a href="http://www.btcchina.com"&gt;btcchina&lt;/a&gt;和&lt;a href="http://www.okcoin.com"&gt;okcoin&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;对国内用户而言，注册国内交易所账号是完全没有难度的事，事实上在&lt;a href="http://www.pbc.gov.cn/publish/goutongjiaoliu/524/2013/20131205153156832222251/20131205153156832222251_.html"&gt;12月5日&lt;/a&gt;和&lt;a href="http://money.163.com/13/1221/10/9GK4EKG500252H36.html"&gt;12月17日&lt;/a&gt;的央行通知发出之前，国盘都没有实名认证，注册账号后，通过在线支付或者银行电汇充值后就可以买卖了。
+现在注册帐号是需要实名认证的，不过基本就是填写身份证就算完事，还是很简单的。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.mtgox.com"&gt;mtgox&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.mtgox.com"&gt;mtgox&lt;/a&gt;作为资格最老的比特币交易站，对于国人而言，目前处于事实上的无法认证状态。&lt;/p&gt;
+
+&lt;p&gt;对于英语国家用户（美国，加拿大），提交你的身份证明和居住地证明后，mtgox的声明是说在10个工作日之内审核完成。
+对于非英语国家，比如中国，需要超过10个工作日来审核，但并没有保证多久审核完成。事实上我的一个账号审核资料提交已经超过一个月了，但目前还没有任何回应。
+&lt;strong&gt;需要注意的是，对于未认证账户，比特币能进不能出！！&lt;/strong&gt; 这是一个老大的坑，你千万要小心。
+不过对于老账户，虽然未认证，比特币还是能提现的。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.bitstamp.net"&gt;bitstamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.bitstamp.net"&gt;bitstamp&lt;/a&gt;在11月27号之前的认证只需要提供身份证明和居住地证明以及证明的翻译件（需要正规的翻译章），但是之后仅有翻译公司的章已经不行了，需要公证处出证明。&lt;/p&gt;
+
+&lt;p&gt;我的账号前几天刚通过认证，这里详细讲解下需要的材料以及办理流程。&lt;/p&gt;
+
+&lt;p&gt;首先准备好你的身份证明和居住地证明， 身份证明你可以使用身份证，护照和驾驶证这三个中的任意一个，居住地证明可以使用银行账单，水电煤账单和纳税单中的任意一个，需要注意的是账单和纳税单中必须要有你的实际住址，这个地址可以和身份证明的地址不同。&lt;/p&gt;
+
+&lt;p&gt;然后拿着你的这两份证明去你当地的公证处（中国的公证处是一直开到县级的，找就近的一家就可以），说要办理证件翻译公证。
+不需要和公证处的工作人员讲实际用途，讲了他们也不清楚，参考留学或者旅游的公证办理，如果问起目的地的话，说英国就可以了。每个地方的公证处出具的格式会有差异，但最终你需要提交给bitstamp下面这些文件：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;身份证明（ 身份证， 护照， 驾驶证 任意一个）&lt;/li&gt;
+&lt;li&gt;居住地证明 （银行账单，水电煤账单，纳税单 任意一个）&lt;/li&gt;
+&lt;li&gt;身份证明的翻译&lt;/li&gt;
+&lt;li&gt;居住地证明的翻译&lt;/li&gt;
+&lt;li&gt;身份证明的公证书&lt;/li&gt;
+&lt;li&gt;居住地证明的公证书&lt;/li&gt;
+&lt;li&gt;身份公证书的翻译&lt;/li&gt;
+&lt;li&gt;居住地公证书的翻译&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;公证处需要收取每件80元的公证费和每件80元的翻译费，合计480元。
+如果你之前已有翻译的话，则取决于公证员的黑心程度，是不是同意你使用之前的翻译件。公证员一般都有自己的合作翻译公司。
+把证件和钱交给公证处，然后就等他们帮你弄好，我等了两天就拿到公证文件了。&lt;/p&gt;
+
+&lt;p&gt;bitstamp的认证的表单只能提交两个文件，所以你需要在support里新建一个ticket, 然后上传这些文件。
+最后需要注意，这些文件必须是扫描件，ppi需要大于300&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.btc-e.com"&gt;btc-e&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.btc-e.com"&gt;btc-e&lt;/a&gt;除BTC外提供LTC和NMC这些山寨币的交易，是个非常好的搬砖平台，它的注册非常简单，不需要审核资料，也正是因为如此，btc-e的交易非常活跃，交易量经常能排到第一。
+&lt;strong&gt;唯一的一个坑是，btc-e对新注册用户有三天的提现限制，即新注册用户三天后才可以提现。&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;资金渠道&lt;/p&gt;
+
+&lt;p&gt;因为&lt;a href="http://www.btc-e.com"&gt;btc-e&lt;/a&gt;是搬砖的必选平台，而且因为提现便利，价格长期低于果盘，所以btc-e的充值和提现渠道比较重要。&lt;/p&gt;
+
+&lt;p&gt;对于国内用户而言，充值到btc-e目前的最佳路径是通过&lt;a href="http://www.okpay.com"&gt;okpay&lt;/a&gt;, 速度有保证，手续费相对最低，为2%。
+&lt;a href="http://www.okpay.com"&gt;okpay&lt;/a&gt;同样需要身份验证，需要你提供一份身份证明和居住地证明，以及证明的翻译件。可用的身份证明和居住地证明和bitstamp是一样的。&lt;/p&gt;
+
+&lt;p&gt;需要注意的是，最好用汇款人的个人资料用来认证okpay帐号，也就是说汇款人和okpay帐号的持有人必须是同一个人，否则你汇的钱会被okpay冻结，需要其他一些麻烦的步骤来解冻。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://ripple.com"&gt;ripple&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ripple.com"&gt;ripple&lt;/a&gt;是非常值得关注的一个转移资金的通道，不过ripple背后的原理和比特币不一样，目的也不同，它就是一个用来转移资金的工具，不建议长期持有。&lt;/p&gt;
+
+&lt;p&gt;之所以要讲ripple, 是因为对国内用户而言，bitstamp现金提现非常麻烦，但bitstamp支持ripple提现，所以可以通过ripple把bitstamp的资金转移回国。&lt;/p&gt;
+
+&lt;p&gt;ripple目前国内有两个交易所，&lt;a href="http://www.ripplecn.com"&gt;ripplecn&lt;/a&gt;和&lt;a href="http://www.ripplechina.net"&gt;ripplechina&lt;/a&gt;, 交易还算活跃，不过问题是盘子太小，对于万元以下的小资金周转没问题，再多的话，就没有合适的交易对手了。&lt;/p&gt;
+
+&lt;p&gt;不过仍然值得保持观望，因为ripple的转账速度非常快。而速度是搬砖的根本！&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <guid>tag:blog.dasixi.com,article.url</guid>
+      <pubDate>2013-12-26T07:37:00Z</pubDate>
+      <category></category>
+    </item>
+    <item>
+      <title>电子货币套利指南</title>
+      <link>http://blog.dasixi.com/outline</link>
+      <description type="html">&lt;p&gt;列个提纲，不保证进度，有空就写点。第一篇将是 准备工作 -&amp;gt; &lt;a href="/accounts"&gt;注册账号&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;背景知识
+
+&lt;ol&gt;
+&lt;li&gt;电子货币&lt;/li&gt;
+&lt;li&gt;交易所&lt;/li&gt;
+&lt;li&gt;利差&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;准备工作
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="/accounts"&gt;注册账号&lt;/a&gt;
+
+&lt;ol&gt;
+&lt;li&gt;交易所&lt;/li&gt;
+&lt;li&gt;资金渠道&lt;/li&gt;
+&lt;li&gt;ripple&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;购买&amp;ldquo;筹码&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;自动交易机器人&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;套利实战
+
+&lt;ol&gt;
+&lt;li&gt;国内外交易所分析&lt;/li&gt;
+&lt;li&gt;套利渠道分析
+
+&lt;ol&gt;
+&lt;li&gt;简单套利 （果盘和外盘之间套利）&lt;/li&gt;
+&lt;li&gt;多币种套利&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <guid>tag:blog.dasixi.com,article.url</guid>
+      <pubDate>2013-12-26T05:15:00Z</pubDate>
+      <category></category>
+    </item>
+    <item>
+      <title>大四喜</title>
+      <link>http://blog.dasixi.com/dasixi-intro</link>
+      <description type="html">&lt;p&gt;这里目前还是个工地,正在施工中. 规划里这里将会成为一个比特币搬砖者的交流区, 供搬砖者交流经验教训, 并会提供一些工具, 譬如上面那个表格.&lt;/p&gt;
+
+&lt;p&gt;从两年前开始接触比特币,经历了从$3到$1240的各种刺激, 最后觉得, 身体要紧, 还是赚点低风险的辛苦费吧.&lt;/p&gt;
+
+&lt;p&gt;我会结合我自己的搬砖需求, 继续完善这里的基础设施. 计划内的新功能包括 1) 通知功能, 发现搬砖机会就发送消息到邮箱. 2) 把搬砖的手续费考虑进去 3) 搞个排行榜, 当前利润最大的搬砖路径&lt;/p&gt;
+
+&lt;p&gt;请关注这里, 也欢迎你在这里提出你的需求&lt;/p&gt;
+</description>
+      <guid>tag:blog.dasixi.com,article.url</guid>
+      <pubDate>2013-12-09T12:12:00Z</pubDate>
+      <category>bitcoin, dasixi</category>
+    </item>
+    <item>
+      <title>比特币套利</title>
+      <link>http://blog.dasixi.com/bitcoin-arbitrage</link>
+      <description type="html">&lt;p&gt;暂时搬点&lt;a href="http://zh.wikipedia.org/wiki/%E5%A5%97%E5%88%A9"&gt;维基&lt;/a&gt;的内容过来&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;套利，通常指在某种实物资产或金融资产（在同一市场或不同市场）拥有两个价格的情况下，以较低的价格买进，较高的价格卖出，从而获取丰厚的收益。
+全球绝大多数金融机构都进行套利交易，投资者普遍认为在其他条件相同时，套利的风险小于单边投机。&lt;/p&gt;
+
+&lt;p&gt;套利不仅包括在一个市场买入某种资产，在另一市场以更高价格卖出的交易。有的金融资产套利要求方向相反的交易组合尽可能同时发生，以规避成交时间不一致带来的未成交市场上价格变动的风险。 能电子化交易的金融产品更适合同时成交的策略。即便如此，价格滑点误差的风险依然存在。由两笔交易无法做到绝对同时以最优价格成交带来的风险称为“成交风险”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <guid>tag:blog.dasixi.com,article.url</guid>
+      <pubDate>2013-12-08T17:12:00Z</pubDate>
+      <category>bitcoin, arbitrage</category>
+    </item>
+  </channel>
+</rss>
